@@ -1,0 +1,5 @@
+{
+  "name": "Refly Social Preview Generator",
+  "description": "A tool to preview and export social media link cards (Discord, Twitter, Facebook, Instagram) with Gemini AI content generation.",
+  "requestFramePermissions": []
+}
